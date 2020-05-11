@@ -1,0 +1,16 @@
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\bin\Debug\netcoreapp2.2\Triangle.Tests.deps.json
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\bin\Debug\netcoreapp2.2\Triangle.Tests.runtimeconfig.json
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\bin\Debug\netcoreapp2.2\Triangle.Tests.runtimeconfig.dev.json
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\bin\Debug\netcoreapp2.2\Triangle.Tests.dll
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\bin\Debug\netcoreapp2.2\Triangle.Tests.pdb
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\bin\Debug\netcoreapp2.2\Triangle.dll
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\bin\Debug\netcoreapp2.2\Triangle.pdb
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\obj\Debug\netcoreapp2.2\Triangle.Tests.csprojAssemblyReference.cache
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\obj\Debug\netcoreapp2.2\Triangle.Tests.AssemblyInfoInputs.cache
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\obj\Debug\netcoreapp2.2\Triangle.Tests.AssemblyInfo.cs
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\obj\Debug\netcoreapp2.2\Triangle.Tests.csproj.CopyComplete
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\obj\Debug\netcoreapp2.2\Triangle.Tests.dll
+C:\dev-project\epicodus_code\week-8C#\Triangle-Tracker\Triangle.Tests\obj\Debug\netcoreapp2.2\Triangle.Tests.pdb

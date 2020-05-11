@@ -2,7 +2,7 @@
 
 #### _This is an exercise of branching, looping and other foundational C# concepts to build working console applications.5/5/2020_
 
-### Made by Nitun Dtta and 
+### Made by Nitun Dtta and Matt Stroud
 ## Description
 
 _This is a console app where user allows to provide three numbers and return the type of triangle._
